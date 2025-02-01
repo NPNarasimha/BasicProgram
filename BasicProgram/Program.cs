@@ -14,7 +14,11 @@ namespace BasicProgram
             //PerimeterAreaCircle.CalculateCircle();
             //PrintDate.date();
             //NumPrintDiv7.printDiv7();
-            CmdArgsPassing.CmdArgs(args);
+            //CmdArgsPassing.CmdArgs(args);
+            //FactorialNum.factorial();
+            //PrintNumInRecursion.PrintNumRecursion(1);
+            //ConvertNumToString.NumToString();
+            CheckingChars.CheckChars();
         }
     }
 }
