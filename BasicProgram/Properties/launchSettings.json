@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BasicProgram": {
+      "commandName": "Project",
+      "commandLineArgs": "N Prakowsalya Narasimha. where are you?\r\n"
+    }
+  }
+}
