@@ -13,7 +13,12 @@ namespace BasicProgram
             //Anagrams.anagram();
             //DayDifference.daysCal();
             //AgeCalculate.ageCal();
-            DaysCal.daysCalculate();
+            //DaysCal.daysCalculate();
+
+            //AvgArrayNum.Avg();
+            //ArrayPrimes.Primes();
+            //ZerosEnd.PrintZerosEnd();
+            RepeatEle.RepeatElement();
         }
     }
 }

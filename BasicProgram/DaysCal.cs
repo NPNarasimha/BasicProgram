@@ -12,7 +12,7 @@ namespace BasicProgram
             string dob = Console.ReadLine();
             DateTime date = Convert.ToDateTime(dob);
             DateTime present= DateTime.Now;
-            TimeSpan t=present - date;
+            TimeSpan t=date-present;
             Console.WriteLine("The difference between the two dates is: " + t.Days + " days");
 
         }
